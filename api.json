@@ -1,24 +1,25 @@
+[{
+  "especie":"",
+  "raza":"",
+  "comentario":"",
+  "telefono":"",
+  "estado":"",
+  "img":""
+},
 {
-  "id": 1,
-  "name": "Leanne Graham",
-  "username": "Bret",
-  "address": {
-    "street": "Kulas Light",
-    "suite": "Apt. 556",
-    "city": "Gwenborough",
-    "zipcode": "92998-3874",
-    "geo": {
-      "lat": "-37.3159",
-      "lng": "81.1496"
-    }
-  },
-  "weather": [
-        {
-            "id": 802,
-            "main": "Clouds",
-            "description": "scattered clouds",
-            "icon": "03d"
-        }
-    ]
-
+  "especie":"Perro",
+  "raza":"Doberman",
+  "comentario":"Pegriloso",
+  "telefono":"6900900",
+  "estado":"Disponible",
+  "img":""
+},
+{
+  "especie":"Gato",
+  "raza":"Persa",
+  "comentario":"Adorable",
+  "telefono":"69089222",
+  "estado":"Disponible",
+  "img":""
 }
+]
